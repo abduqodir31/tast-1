@@ -1,0 +1,96 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.container{
+  margin-left: auto;
+  margin-right: auto;
+    width: 100%;
+}
+.part-1{
+    background:orange;
+    width: 300px;
+    padding: 35px;
+    height: 450px;
+}
+.part-2{
+    background:#016972;
+    width: 300px;
+    padding: 35px;
+    height: 450px;
+}
+.part-3{
+    background:#00403F;
+    width: 300px;
+    padding: 35px;
+    height: 450px;
+}
+.part-3-link{
+    display: inline-block;
+    background: #fff;
+    width: 147px;
+    border-radius: 35px;
+   padding: 12px;
+    color: #00403F;
+    margin: 5px;
+}
+.part-2-link{
+    display: inline-block;
+    background: #fff;
+    width: 147px;
+    border-radius: 35px;
+   padding: 12px;
+    color:#016972 ;
+    margin: 5px;
+}
+.helper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+.bg-image{
+    width: 43px;
+    height: 41px;
+    margin-bottom: 20px;
+}
+.back-ground-img{
+    background-image: url(./image/icons8-tesla-model-x-48.png);
+    background-repeat: no-repeat;
+}
+.site-header-icon{
+    color: #fff;
+    width: 50px;
+    font-weight: 700;
+    font-size: 42px;
+    margin-bottom: 30px;
+}
+.site-header-text{
+    color: #fff;
+    width: 174px;
+    font-weight: 500;
+    margin-bottom: 70px;
+
+    line-height: 25px;
+    
+}
+.as{
+   
+}
+.part-1-link{
+    display: inline-block;
+    background: #fff;
+    width: 147px;
+    border-radius: 35px;
+   padding: 12px;
+    color: orange;
+    margin: 5px;
+}

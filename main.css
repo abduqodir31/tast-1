@@ -1,0 +1,144 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+ul,
+ol {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
+.main-image {
+  width: 720px;
+  height: 899.82px;
+}
+.main-right-hero {
+}
+.display {
+  display: flex;
+  align-items: center;
+}
+.main-left-hero {
+  margin-right: 193px;
+}
+.main-right-text {
+  width: 105px;
+  height: 19px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #2d3748;
+}
+.main-right-zag {
+  width: 292px;
+  height: 35px;
+  margin-bottom: 24px;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;    
+  color: #1a202c;
+}
+.mixed {
+  display: flex;
+  flex-direction: column;
+}
+.help {
+  margin-bottom: 11px;
+}
+.help-help {
+  padding: 20px;
+  width: 350px;
+  height: 50px;
+  display: inline-block;
+  border: 1px solid #e8e8e8;
+  border-radius: 5px;
+  margin-bottom: 11px;
+}
+.link-and-text {
+  display: flex;
+  align-items: center;
+  
+}
+.mixed-text {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #2d3748;
+  margin-left: 11px;
+  margin-right: 119px;
+}
+.mixed-link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #2c5282;
+}
+.pot {
+  display: flex;
+}
+
+
+
+
+.first-link {
+    margin-top: 27px ;
+  font-weight: 700;
+  display: inline-block;
+  font-size: 16px;
+  line-height: 19px;
+  padding: 15px 136px;
+  color: #ffffff;
+  background: #04c45c;
+  border-radius: 5px;
+}
+.second-link{
+    position: relative;
+    margin-top: 27px ;
+    font-weight: 700;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 19px;
+    padding: 15px 78px 16px 110px;
+    color: #ffffff;
+    background: #2D3748;
+    border-radius: 5px;
+    margin-bottom: 162px;
+}
+.second-img{
+    width: 20px;
+    height: 20px;
+    margin-right: 11px;
+   position: absolute;
+   top: 26%;
+   left: 21%;
+
+}
+.span{
+    width: 272px;
+height: 19px;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #616161;
+}
+.bottom-link{
+   
+    width: 272px;
+    height: 19px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #2B6CB0;
+   
+}
